@@ -1,0 +1,22 @@
+{
+  "name": "petshop_g37",
+  "version": "0.0.1",
+  "description": "backend petshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waperdomob/petshop_g37.git"
+  },
+  "author": "wilmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waperdomob/petshop_g37/issues"
+  },
+  "homepage": "https://github.com/waperdomob/petshop_g37#readme",
+  "dependencies": {
+    "mongoose": "^6.6.5"
+  }
+}
